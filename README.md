@@ -27,8 +27,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/ing-javier-vidal-numa-mendoza)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:ing.javiernuma@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ing-javier-vidal-numa-mendoza)
+[![Email](https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=f5f5f5)](mailto:ing.javiernuma@gmail.com)
 
 ---
 
