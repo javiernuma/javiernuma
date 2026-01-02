@@ -34,4 +34,3 @@
 
 💡 **Currently:** Building event-driven financial platforms with Scala/ZIO  
 🎯 **Learning:** Google Cloud Professional Architect certification
-```
