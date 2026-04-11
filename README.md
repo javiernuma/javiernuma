@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mí
 
-Soy **Software Architect** y **Senior Backend Engineer**, fundador de **Dsion Group**. Me especializo en el diseño de sistemas distribuidos de alta disponibilidad y arquitecturas orientadas a eventos.
+Soy **Software Architect** y **Senior Backend Engineer** de **Dsion Group**. Me especializo en el diseño de sistemas distribuidos de alta disponibilidad y arquitecturas orientadas a eventos.
 
 * 🏗️ **Arquitectura:** Experto en **DDD, CQRS y Hexagonal Architecture**.
 * ☁️ **Cloud:** Especialista en **Google Cloud Platform (GCP)** y Kubernetes (GKE).
